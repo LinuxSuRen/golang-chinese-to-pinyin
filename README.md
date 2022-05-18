@@ -6,7 +6,7 @@ golang-chinese-to-pinyin
 install
 --------
 ```
-go get github.com/l2x/golang-chinese-to-pinyin
+go get github.com/linuxsuren/golang-chinese-to-pinyin
 ```
 
 

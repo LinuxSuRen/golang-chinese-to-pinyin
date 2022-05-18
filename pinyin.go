@@ -1,4 +1,4 @@
-package Pinyin
+package pinyin
 
 import (
 	"github.com/qiniu/iconv"

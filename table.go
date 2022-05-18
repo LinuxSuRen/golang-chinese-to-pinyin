@@ -1,4 +1,4 @@
-package Pinyin
+package pinyin
 
 //code->pinyin mapping table
 /*

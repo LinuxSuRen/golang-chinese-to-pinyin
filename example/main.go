@@ -2,13 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/l2x/golang-chinese-to-pinyin"
+	"github.com/linuxsuren/golang-chinese-to-pinyin"
 )
 
 func main() {
 	s := "天气不错"
 
-	py := Pinyin.New()
+	py := pinyin.New()
 	p, _ := py.Convert(s)
 
 	fmt.Println(p)
